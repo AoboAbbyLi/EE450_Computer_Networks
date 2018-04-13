@@ -1,0 +1,5 @@
+Name: Aobo Li
+email.id: aoboli@usc.edu
+
+After compiling server.cpp as server and client.cpp as client, run server first, and then run client.
+The client should say "Aobo Li" to the server. And the server responds with “Ok!” information.
